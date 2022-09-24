@@ -1,0 +1,17 @@
+This text file just contains TODOs and game plans/ideas.
+
+So basically i was thinking sort of like a procedural cave/space/underwater type of exploration game with minimal color schemes and a mysterious atmosphere.
+
+Maybe kinda like a mostly monochrome coloring.
+
+Horror style game.
+
+maybe like hide-and-seek yk with like a demon shit chasing u
+
+and you can barely see so you have a flashlight with like a few charges, and once it runs out you cant see anymore, and you also use the flashlight to make the monster go away
+maybe a "survive until dawn" type of game
+
+Huge thanks to Github co-pilot, it's really helping me a shit ton and helping with writing more complex or large codes
+
+TODO:
+- make player art and incorporate it into the game
